@@ -36,6 +36,8 @@ Customer service call frequency
 
 Churn status (whether the customer left or stayed)
 
+---
+
 🔍 What Was Done in the Project
 1. Data Understanding
 
